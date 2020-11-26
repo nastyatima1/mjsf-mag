@@ -1,4 +1,4 @@
-# yurovskyi
+# timofeeva
 
 ## Project setup
 ```
